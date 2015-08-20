@@ -1,0 +1,13 @@
+deb http://ftp.us.debian.org/debian unstable main contrib non-free
+
+deb http://ftp.debian.org/debian/ unstable main contrib non-free
+
+deb http://security.debian.org/ unstable main contrib non-free
+
+#Third Parties Repos
+#Debian Multimedia
+deb http://www.las.ic.unicamp.br/pub/debian-multimedia/ unstable main
+
+# OG sources pre-20152307
+#deb http://packages.linuxmint.com debian import
+#deb http://ftp.us.debian.org/debian wheezy main contrib non-free
