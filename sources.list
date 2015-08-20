@@ -2,11 +2,11 @@ deb http://ftp.us.debian.org/debian unstable main contrib non-free
 
 deb http://ftp.debian.org/debian/ unstable main contrib non-free
 
-deb http://security.debian.org/ unstable main contrib non-free
+deb http://security.debian.org/ testing/updates main contrib non-free
 
 #Third Parties Repos
 #Debian Multimedia
-deb http://www.las.ic.unicamp.br/pub/debian-multimedia/ unstable main
+deb http://mirror.csclub.uwaterloo.ca/debian-multimedia/ stable main
 
 # OG sources pre-20152307
 #deb http://packages.linuxmint.com debian import
